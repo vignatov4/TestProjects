@@ -25,7 +25,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOPTest.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6494c76665857abd57485d3bb2845d5ef20b31af")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOPTest.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOPTest.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

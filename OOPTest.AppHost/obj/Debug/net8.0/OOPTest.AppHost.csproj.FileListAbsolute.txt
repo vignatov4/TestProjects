@@ -77,3 +77,4 @@ C:\progs\TestProjects\OOPTest\OOPTest.AppHost\obj\Debug\net8.0\refint\OOPTest.Ap
 C:\progs\TestProjects\OOPTest\OOPTest.AppHost\obj\Debug\net8.0\OOPTest.AppHost.pdb
 C:\progs\TestProjects\OOPTest\OOPTest.AppHost\obj\Debug\net8.0\OOPTest.AppHost.genruntimeconfig.cache
 C:\progs\TestProjects\OOPTest\OOPTest.AppHost\obj\Debug\net8.0\ref\OOPTest.AppHost.dll
+C:\progs\TestProjects\OOPTest\OOPTest.AppHost\obj\Debug\net8.0\OOPTest.AppHost.sourcelink.json

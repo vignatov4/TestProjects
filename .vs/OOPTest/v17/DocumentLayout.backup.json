@@ -7,28 +7,12 @@
       "RelativeMoniker": "D:0:0:{6E7C3D28-5F5A-41A6-9410-F5C0ECDC036B}|OOPTest.AppHost\\OOPTest.AppHost.csproj|solutionrelative:ooptest.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E7C3D28-5F5A-41A6-9410-F5C0ECDC036B}|OOPTest.AppHost\\OOPTest.AppHost.csproj|c:\\progs\\testprojects\\ooptest\\ooptest.apphost\\ymagazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E7C3D28-5F5A-41A6-9410-F5C0ECDC036B}|OOPTest.AppHost\\OOPTest.AppHost.csproj|solutionrelative:ooptest.apphost\\ymagazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E7C3D28-5F5A-41A6-9410-F5C0ECDC036B}|OOPTest.AppHost\\OOPTest.AppHost.csproj|c:\\progs\\testprojects\\ooptest\\ooptest.apphost\\aditional\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7C3D28-5F5A-41A6-9410-F5C0ECDC036B}|OOPTest.AppHost\\OOPTest.AppHost.csproj|solutionrelative:ooptest.apphost\\aditional\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E7C3D28-5F5A-41A6-9410-F5C0ECDC036B}|OOPTest.AppHost\\OOPTest.AppHost.csproj|c:\\progs\\testprojects\\ooptest\\ooptest.apphost\\yiborrowable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E7C3D28-5F5A-41A6-9410-F5C0ECDC036B}|OOPTest.AppHost\\OOPTest.AppHost.csproj|solutionrelative:ooptest.apphost\\yiborrowable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E7C3D28-5F5A-41A6-9410-F5C0ECDC036B}|OOPTest.AppHost\\OOPTest.AppHost.csproj|c:\\progs\\testprojects\\ooptest\\ooptest.apphost\\ylibraryitem .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E7C3D28-5F5A-41A6-9410-F5C0ECDC036B}|OOPTest.AppHost\\OOPTest.AppHost.csproj|solutionrelative:ooptest.apphost\\ylibraryitem .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E7C3D28-5F5A-41A6-9410-F5C0ECDC036B}|OOPTest.AppHost\\OOPTest.AppHost.csproj|c:\\progs\\testprojects\\ooptest\\ooptest.apphost\\ybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E7C3D28-5F5A-41A6-9410-F5C0ECDC036B}|OOPTest.AppHost\\OOPTest.AppHost.csproj|solutionrelative:ooptest.apphost\\ybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E7C3D28-5F5A-41A6-9410-F5C0ECDC036B}|OOPTest.AppHost\\OOPTest.AppHost.csproj|c:\\progs\\testprojects\\ooptest\\ooptest.apphost\\ylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E7C3D28-5F5A-41A6-9410-F5C0ECDC036B}|OOPTest.AppHost\\OOPTest.AppHost.csproj|solutionrelative:ooptest.apphost\\ylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E7C3D28-5F5A-41A6-9410-F5C0ECDC036B}|OOPTest.AppHost\\OOPTest.AppHost.csproj|c:\\progs\\testprojects\\ooptest\\ooptest.apphost\\ydvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E7C3D28-5F5A-41A6-9410-F5C0ECDC036B}|OOPTest.AppHost\\OOPTest.AppHost.csproj|solutionrelative:ooptest.apphost\\ydvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E7C3D28-5F5A-41A6-9410-F5C0ECDC036B}|OOPTest.AppHost\\OOPTest.AppHost.csproj|c:\\progs\\testprojects\\ooptest\\ooptest.apphost\\aditional\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7C3D28-5F5A-41A6-9410-F5C0ECDC036B}|OOPTest.AppHost\\OOPTest.AppHost.csproj|solutionrelative:ooptest.apphost\\aditional\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,84 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "YDVD.cs",
-              "DocumentMoniker": "C:\\progs\\TestProjects\\OOPTest\\OOPTest.AppHost\\YDVD.cs",
-              "RelativeDocumentMoniker": "OOPTest.AppHost\\YDVD.cs",
-              "ToolTip": "C:\\progs\\TestProjects\\OOPTest\\OOPTest.AppHost\\YDVD.cs*",
-              "RelativeToolTip": "OOPTest.AppHost\\YDVD.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T09:23:28.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "YMagazine.cs",
-              "DocumentMoniker": "C:\\progs\\TestProjects\\OOPTest\\OOPTest.AppHost\\YMagazine.cs",
-              "RelativeDocumentMoniker": "OOPTest.AppHost\\YMagazine.cs",
-              "ToolTip": "C:\\progs\\TestProjects\\OOPTest\\OOPTest.AppHost\\YMagazine.cs*",
-              "RelativeToolTip": "OOPTest.AppHost\\YMagazine.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Title": "Carte.cs",
+              "DocumentMoniker": "C:\\progs\\TestProjects\\OOPTest\\OOPTest.AppHost\\Aditional\\Carte.cs",
+              "RelativeDocumentMoniker": "OOPTest.AppHost\\Aditional\\Carte.cs",
+              "ToolTip": "C:\\progs\\TestProjects\\OOPTest\\OOPTest.AppHost\\Aditional\\Carte.cs",
+              "RelativeToolTip": "OOPTest.AppHost\\Aditional\\Carte.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T09:21:40.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "YLibrary.cs",
-              "DocumentMoniker": "C:\\progs\\TestProjects\\OOPTest\\OOPTest.AppHost\\YLibrary.cs",
-              "RelativeDocumentMoniker": "OOPTest.AppHost\\YLibrary.cs",
-              "ToolTip": "C:\\progs\\TestProjects\\OOPTest\\OOPTest.AppHost\\YLibrary.cs",
-              "RelativeToolTip": "OOPTest.AppHost\\YLibrary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T08:59:21.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "YBook.cs",
-              "DocumentMoniker": "C:\\progs\\TestProjects\\OOPTest\\OOPTest.AppHost\\YBook.cs",
-              "RelativeDocumentMoniker": "OOPTest.AppHost\\YBook.cs",
-              "ToolTip": "C:\\progs\\TestProjects\\OOPTest\\OOPTest.AppHost\\YBook.cs",
-              "RelativeToolTip": "OOPTest.AppHost\\YBook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T08:54:10.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "YLibraryItem .cs",
-              "DocumentMoniker": "C:\\progs\\TestProjects\\OOPTest\\OOPTest.AppHost\\YLibraryItem .cs",
-              "RelativeDocumentMoniker": "OOPTest.AppHost\\YLibraryItem .cs",
-              "ToolTip": "C:\\progs\\TestProjects\\OOPTest\\OOPTest.AppHost\\YLibraryItem .cs",
-              "RelativeToolTip": "OOPTest.AppHost\\YLibraryItem .cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAnwAgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T08:47:53.26Z",
+              "WhenOpened": "2025-06-10T12:09:15.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "YIBorrowable.cs",
-              "DocumentMoniker": "C:\\progs\\TestProjects\\OOPTest\\OOPTest.AppHost\\YIBorrowable.cs",
-              "RelativeDocumentMoniker": "OOPTest.AppHost\\YIBorrowable.cs",
-              "ToolTip": "C:\\progs\\TestProjects\\OOPTest\\OOPTest.AppHost\\YIBorrowable.cs",
-              "RelativeToolTip": "OOPTest.AppHost\\YIBorrowable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\progs\\TestProjects\\OOPTest\\OOPTest.AppHost\\Aditional\\Student.cs",
+              "RelativeDocumentMoniker": "OOPTest.AppHost\\Aditional\\Student.cs",
+              "ToolTip": "C:\\progs\\TestProjects\\OOPTest\\OOPTest.AppHost\\Aditional\\Student.cs*",
+              "RelativeToolTip": "OOPTest.AppHost\\Aditional\\Student.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAtwCUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T08:46:21.132Z",
+              "WhenOpened": "2025-06-10T11:24:24.883Z",
               "EditorCaption": ""
             },
             {
@@ -126,7 +58,7 @@
               "RelativeDocumentMoniker": "OOPTest.AppHost\\Program.cs",
               "ToolTip": "C:\\progs\\TestProjects\\OOPTest\\OOPTest.AppHost\\Program.cs*",
               "RelativeToolTip": "OOPTest.AppHost\\Program.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAmwBcAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T10:42:20.549Z",
               "EditorCaption": ""
